@@ -20,8 +20,7 @@ Diese App ist eine reine Client-seitige Anwendung. Es ist keine Installation ode
 
 ## Quellen
 
--   Georg Kühlewind, „Vom Normalen zum Gesunden“, „Die Auflösung des Gewohnheitsmenschen“, S. 218-224, 1991, 4. Auflage, Verlag Freies Geistesleben, Stuttgart.
--   [uebungsgruppe-kuehlewind.de/pfad/](https://uebungsgruppe-kuehlewind.de/pfad/)
+-   Georg Kühlewind, „Vom Normalen zum Gesunden“, „Die Auflösung des Gewohnheitsmenschen“, S. 218-224, 1991, 4. Auflage, Verlag Freies Geistesleben, Stuttgart. Siehe [uebungsgruppe-kuehlewind.de/pfad/](https://uebungsgruppe-kuehlewind.de/pfad/)
 -   Rudolf Steiner: Seelenübungen, GA 267 (2001)
 
 ## Lizenz
