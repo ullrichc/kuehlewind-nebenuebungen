@@ -18,16 +18,6 @@ Diese App ist eine reine Client-seitige Anwendung. Es ist keine Installation ode
 1.  Repository klonen oder ZIP herunterladen.
 2.  Die Datei `index.html` in einem modernen Webbrowser öffnen.
 
-## Veröffentlichung auf GitHub Pages
-
-Diese App lässt sich sehr einfach über **GitHub Pages** kostenlos hosten:
-
-1.  Lade alle Dateien in ein neues GitHub-Repository hoch.
-2.  Gehe zu den **Settings** des Repositorys.
-3.  Wähle im Menü links **Pages** aus.
-4.  Wähle unter **Build and deployment** > **Branch** den Branch `main` (oder `master`) aus und klicke auf **Save**.
-5.  Nach wenigen Augenblicken ist die App unter `https://<dein-nutzername>.github.io/<repo-name>/` erreichbar.
-
 ## Quellen
 
 -   Georg Kühlewind, „Vom Normalen zum Gesunden“, „Die Auflösung des Gewohnheitsmenschen“, S. 218-224, 1991, 4. Auflage, Verlag Freies Geistesleben, Stuttgart.
